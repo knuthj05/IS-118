@@ -2,10 +2,10 @@ print("Erling er teamleder for et prosjektteam som trenger litt veiledning med �
 "\nNå skal du spille rollen som Erling og ta beslutninger for å håndtere situasjonene. Svar på spørsmålene ved å velge A eller B.")
 
 while True:
-    valg1 = input("Hvordan skal Erling håndtere situasjonen mellom Silje og Elias? " \
-    "\nA = Ta det opp i plenum for å skape åpenhet "  \
-    "" \
-    "\nB = Begge får en tidsfrist til å lage en prototype "  \
+    valg1 = input("Hvordan skal Erling håndtere situasjonen mellom Silje og Elias? " 
+    "\nA = Ta det opp i plenum for å skape åpenhet " 
+    "" 
+    "\nB = Begge får en tidsfrist til å lage en prototype "  
     "\nSvar A eller B: ").strip().upper()
 
 
@@ -19,9 +19,9 @@ while True:
         print("Ugyldig valg. Vennligst velg A eller B.")
 
 while True:
-    valg2 = input("Hvordan forhindre at situasjonen mellom Hamdi og Hallgeir eskalerer? " \
-"\nA = Ta initiativ til et felles møte for å avklare uenigheter " \
-"\nB = Gi de en tidsfrist til å komme med et forslag hvor de jobber sammen som et par " \
+    valg2 = input("Hvordan forhindre at situasjonen mellom Hamdi og Hallgeir eskalerer? " 
+"\nA = Ta initiativ til et felles møte for å avklare uenigheter " 
+"\nB = Gi de en tidsfrist til å komme med et forslag hvor de jobber sammen som et par " 
 "\nSvar A eller B: ").strip().upper()
 
 
@@ -35,10 +35,10 @@ while True:
         print("Ugyldig valg. Vennligst velg A eller B.")
 
 while True:
-    valg3 = input("Hvordan bevare motivasjonen i teamet som helhet? " \
-"\nA = Skal han sette av tid til relasjonsbygging og sosiale aktiviteter for å " \
+    valg3 = input("Hvordan bevare motivasjonen i teamet som helhet? " 
+"\nA = Skal han sette av tid til relasjonsbygging og sosiale aktiviteter for å " 
 "gjenopprette tillit? " \
-"\nB = Lage mål teamet kan oppnå rettet mot sluttproduktet, men fokusere mer på oppgavene enn teamet. " \
+"\nB = Lage mål teamet kan oppnå rettet mot sluttproduktet, men fokusere mer på oppgavene enn teamet. " 
 "\nSvar A eller B: ").strip().upper()
 
 
